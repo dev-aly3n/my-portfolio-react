@@ -19,6 +19,7 @@
     "react-scripts": "4.0.3",
     "tailwindcss": "^2.1.2",
     "web-vitals": "^1.1.2"
+    
   },
   "scripts": {
     "build:tailwind": "tailwind build ./src/styles/tailwind.css -o ./src/styles/tailwind.output.css",
